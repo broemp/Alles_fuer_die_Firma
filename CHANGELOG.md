@@ -1,3 +1,14 @@
+# V1.2.0
+Added even more Mods
+
+  - sunnobunno-YippeeMod-1.2.2
+  - Midge-PushCompany-1.2.0
+  - KlutzyBubbles-BetterEmotes-1.1.0
+  - Rune580-LethalCompany_InputUtils-0.3.0
+  - LRC-LRCCosmetics-1.2.0
+  - KodiCraft-TermSpeak-1.0.3
+  - NotAtomicBomb-Terminal_History-1.0.1
+
 # V1.0.1
 Added more Mods
 

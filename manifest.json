@@ -1,6 +1,6 @@
 {
   "name": "Alles_fuer_die_Firma",
-  "version_number": "1.0.1",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/broemp/alles_fuer_die_firma",
   "description": "Modpack for my friends",
   "dependencies": [
@@ -35,6 +35,13 @@
     "armablign-MaidOutfit-1.0.2",
     "mon-BasedSuits-1.0.1",
     "5Bit-VoiceHUD-1.0.4",
-    "HomelessGinger-MaskedEnemyOverhaul-1.1.0"
+    "HomelessGinger-MaskedEnemyOverhaul-1.1.0",
+    "sunnobunno-YippeeMod-1.2.2",
+    "Midge-PushCompany-1.2.0",
+    "KlutzyBubbles-BetterEmotes-1.1.0",
+    "Rune580-LethalCompany_InputUtils-0.3.0",
+    "LRC-LRCCosmetics-1.2.0",
+    "KodiCraft-TermSpeak-1.0.3",
+    "NotAtomicBomb-Terminal_History-1.0.1"
   ]
 }
